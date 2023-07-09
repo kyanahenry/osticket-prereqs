@@ -27,10 +27,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/kyanahenry/osticket-prereqs/assets/137842747/d508f235-d347-471f-9273-02e59e975b93)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After setting up a VM in Microsoft Azure, I'll go ahead and install/enable IIS (Internet Information Services) to allow osTicket to run through a website after installation. 
 </p>
 <br />
 
